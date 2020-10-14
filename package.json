@@ -6,16 +6,24 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://chucheloff:Chuchelov1@github.com/chucheloff/webdriverio-test.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chucheloff/webdriverio-test/issues"
+  },
+  "homepage": "https://github.com/chucheloff/webdriverio-test#readme",
   "devDependencies": {
-    "@wdio/cli": "^6.5.2",
-    "@wdio/local-runner": "^6.5.2",
-    "@wdio/mocha-framework": "^6.5.0",
-    "@wdio/spec-reporter": "^6.4.7",
-    "@wdio/sync": "^6.5.0",
-    "chromedriver": "^85.0.1",
+    "@wdio/cli": "^6.6.2",
+    "@wdio/local-runner": "^6.6.2",
+    "@wdio/mocha-framework": "^6.6.0",
+    "@wdio/spec-reporter": "^6.6.0",
+    "@wdio/sync": "^6.6.0",
+    "chromedriver": "^86.0.0",
     "wdio-chromedriver-service": "^6.0.4"
   }
 }

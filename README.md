@@ -1,2 +1,0 @@
-# webdriverio-test
- autests adventure
